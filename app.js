@@ -25,12 +25,12 @@ app.get("/users", (req, res) => {
   var user2 = [
   {
     "id": "586678522fe37e66355fcbd0",
-    "title": "Article title 1",
+    "title": "Article title 3",
     "content": "Lorem ipsum"
   },
   {
     "id": "586678522fe37e66355fcbd2",
-    "title": "Article title 2",
+    "title": "Article title 4",
     "content": "Ipsum lorem"
   }
 ]
